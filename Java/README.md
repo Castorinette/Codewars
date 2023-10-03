@@ -1,6 +1,6 @@
 # CodeWars Java
 
-> Important note - BP stands for BEST Practice as the most optimized solution for a > > kata according to other challengers.
+> Important note - BP stands for BEST Practice as the most optimized solution for a kata according to other challengers.
 
 ## All katas 
 
