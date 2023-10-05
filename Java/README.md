@@ -1,7 +1,7 @@
 # CodeWars Java
 
-> Important note - BP stands for BEST Practice as the most optimized solution for a > > kata according to other challengers.
 
 ## All katas 
 
-- 8 kyu, the 10/03 [BinToDecimal](https://github.com/Castorinette/Codewars/tree/main/Java/BinToDecimal) 
+- the 10/03 8 kyu [kata](https://www.codewars.com/kata/57a5c31ce298a7e6b7000334/java)
+    -  [parseInt()] (https://www.tutorialspoint.com/java/number_parseint.htm)

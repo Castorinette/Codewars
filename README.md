@@ -8,4 +8,7 @@ In a nutshell, I started this journey on Codewars to challenge myself. I've stay
 
 ## My level
 
+
+> Important note - BP stands for BEST Practice as the most optimized solution for a > > kata according to other challengers.
+
 ![Codewars](https://github.r2v.ch/codewars?user=Castorine&name=true)
