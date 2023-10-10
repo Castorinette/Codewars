@@ -5,3 +5,4 @@ l# Codewars Python
 - 10/10 8 kyu [kata](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/python) **OddEven**
 - 10/10 8 kyu [kata](https://www.codewars.com/kata/5715eaedb436cf5606000381/python) **SumofPos**
 - 10/10 7 kyu [kata](https://www.codewars.com/kata/54ff3102c1bad923760001f3/python) **VoyelCount**
+- 10/10 7 kyu [kata](https://www.codewars.com/kata/5648b12ce68d9daa6b000099/python) **PeopleBus**
