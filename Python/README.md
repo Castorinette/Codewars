@@ -17,3 +17,10 @@ l# Codewars Python
     - [.copy()](https://www.programiz.com/python-programming/methods/list/copy) /!\
     - [remove()](https://www.programiz.com/python-programming/methods/list/remove)
     - [pop()](https://www.programiz.com/python-programming/methods/list/pop)
+
+- 10/12 7 kyu [kata](https://www.codewars.com/kata/52fba66badcd10859f00097e/python) **Trolls**
+    - [replace()](https://www.w3schools.com/python/ref_string_replace.asp)
+    - [lower()](https://www.w3schools.com/python/ref_string_lower.asp)
+    - [join()](https://www.w3schools.com/python/ref_string_join.asp)
+- 10/12 6 kyu [kata](https://www.codewars.com/kata/517abf86da9663f1d2000003/python) **CamelCase**
+
