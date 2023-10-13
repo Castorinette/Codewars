@@ -23,3 +23,4 @@
     - [Pattern](https://www.geeksforgeeks.org/regular-expressions-in-java/)
 - 10/08 6 kyu [kata](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) **ParityOutlier**
     - [Arrays.stream](https://www.geeksforgeeks.org/arrays-stream-method-in-java/) /!\
+- 10/14 6 kyu [kata](https://www.codewars.com/kata/53417de006654f4171000587/java) **CardGame**
