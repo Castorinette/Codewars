@@ -28,3 +28,8 @@
 - 10/16 6 kyu [kata](https://www.codewars.com/kata/5264d2b162488dc400000001/train/java) **SpinWords**
     - [join()](https://www.geeksforgeeks.org/java-string-join-examples/)
     - [revese()](https://www.geeksforgeeks.org/reverse-a-string-in-java/)
+- 10/19 6 kyu [kata]() **PangramChecker**
+    - [Character.toLowerCase](https://www.educative.io/answers/what-is-charactertolowercase-in-java)
+    - [char to ascii value](https://stackoverflow.com/questions/16458564/convert-character-to-ascii-numeric-value-in-java)
+    - [contains()](https://www.w3schools.com/java/ref_string_contains.asp)
+    - [iteration through alphabet](https://stackoverflow.com/questions/33163253/for-loop-iteration-through-alphabet-java)
