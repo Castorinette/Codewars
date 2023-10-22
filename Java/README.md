@@ -39,3 +39,4 @@
     - [split() String](https://www.scaler.com/topics/split-in-java/)
     - [occ of an char in string](https://www.scaler.com/topics/occurrence-of-character-in-string-in-java/) /!\
     - [Int stream](https://www.geeksforgeeks.org/intstream-of-in-java/)
+- 10/22 6 kyu [kata](https://www.codewars.com/kata/553e0c3c8b8c2e1745000005) **Flames**
