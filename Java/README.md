@@ -33,3 +33,9 @@
     - [char to ascii value](https://stackoverflow.com/questions/16458564/convert-character-to-ascii-numeric-value-in-java)
     - [contains()](https://www.w3schools.com/java/ref_string_contains.asp)
     - [iteration through alphabet](https://stackoverflow.com/questions/33163253/for-loop-iteration-through-alphabet-java)
+- 10/22 5 kyu [kata](https://www.codewars.com/kata/55c04b4cc56a697bb0000048) **Scramblies**
+    - [Hashmap](https://www.w3schools.com/java/java_hashmap.asp)
+    - [Remove occ](https://www.w3docs.com/snippets/java/remove-all-occurrences-of-char-from-string.html)
+    - [split() String](https://www.scaler.com/topics/split-in-java/)
+    - [occ of an char in string](https://www.scaler.com/topics/occurrence-of-character-in-string-in-java/) /!\
+    - [Int stream](https://www.geeksforgeeks.org/intstream-of-in-java/)
