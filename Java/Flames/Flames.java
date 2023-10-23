@@ -2,21 +2,36 @@ import java.lang.String;
 public class Flames {
     public static String showRelationship(String male, String female) {
 
-        choice = (int) (Math.random(1000)+1) % 2 ? "KIFF" : "PAS KIFF"
-        return choice;
-
-    }
-        public static void main(String [] args){
-            System.out.println(Flames.showRelationship("Elisa", "Tifenn"));
-            String[] names = {"Nadir", "Anishka", "Emilie", "Wilhem", "Beeverly"};
-
-            for (String nom: names){
-                for(String nom2:names){
-                    if (nom != nom2){
-                        System.out.println(nom + "+" + nom2 + " = " +Flames.showRelationship(nom,nom2));
-                    }
-                }
-                System.out.println();
+        int sumLen = male.length() + female.length();
+        String sameL = "";
+        for(int i = 0; i < male.length(); i++){
+            char c = male.charAt(i);
+            if(female.contains(String.valueOf(c)) && (!sameL.contains(String.valueOf(c)))){
+                sumLen -=  (int) (male.chars().filter(ch -> ch == c).count() + female.chars().filter(ch -> ch == c ).count());
+                sameL += c;
             }
         }
+        String flames ="";
+        switch (sumLen % 6){
+            case 1:
+                flames = "Friendship";
+                break;
+            case 2:
+                flames = "Love";
+                break;
+            case 3:
+                flames = "Affection";
+                break;
+            case 4:
+                flames = "Marriage";
+                break;
+            case 5:
+                flames = "Enemies";
+                break;
+            case 0:
+                flames = "Siblings";
+                break;
+        }
+        return flames;
+    }
 }
