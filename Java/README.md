@@ -41,3 +41,4 @@
     - [Int stream](https://www.geeksforgeeks.org/intstream-of-in-java/)
 - 10/22 6 kyu [kata](https://www.codewars.com/kata/553e0c3c8b8c2e1745000005) **Flames**
 - 10/24 6 kyu [kata](https://www.codewars.com/kata/56743fd3a12043ffbb000049/java) **RobotVicky**
+- 10/25 5 kyu [kata](https://www.codewars.com/kata/80-s-kids-number-6-rock-em-sock-em-robots) **RobotFight**
